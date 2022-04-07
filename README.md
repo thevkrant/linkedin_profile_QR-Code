@@ -20,7 +20,9 @@ link.png('code.png', scale=8)
 
 ```
 ### Output
-
+<p align="center">
+  <a href="asset/gramformer.png"><img height="600" src="https://user-images.githubusercontent.com/85709371/162178619-7a4310a4-e23d-4634-baf0-c242603d6487.png" alt="output"></a>
+</p>
 
 ## *Author Name*
 [Vikrant](https://github.com/vikrant-v28)
