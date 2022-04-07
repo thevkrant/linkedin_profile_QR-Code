@@ -9,6 +9,7 @@ There is a simple way to create an interesting way to introduce your LinkedIn pr
 
 ### Prerequisites
 `Python 3`
+`PyQRCode`
 
 ### Source Code
 ```python3
