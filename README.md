@@ -19,6 +19,8 @@ link = pyqrcode.create('Paste your linkedin profile url here.')
 link.png('code.png', scale=8)
 
 ```
+### Output
+
 
 ## *Author Name*
 [Vikrant](https://github.com/vikrant-v28)
