@@ -5,14 +5,17 @@
 <h1 align="center">Linkedin profile QR code using Python</h1>
 
 ### Python tip:
-There is a simple way to create a code countdown timer using the perf_counter() class from the time module. I wrote a function that demonstrates how you can use it as a performance counter for your code. 
-* perf_counter() returns how long it takes to create a list from a range using a for loop.
+There is a simple way to create an interesting way to introduce your LinkedIn profile through a QR code using Python.
 
 ### Prerequisites
 `Python 3`
 
 ### Source Code
 ```python3
+
+import pyqrcode
+link = pyqrcode.create('Paste your linkedin profile url here.')
+link.png('code.png', scale=8)
 
 ```
 
